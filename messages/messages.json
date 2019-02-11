@@ -1,0 +1,6 @@
+{
+  "required": "the line must be inputed",
+  "maxString":"the length must be 6",
+  "bookPrice":"price must consists only from numbers",
+  "minPage":"min ap"
+}

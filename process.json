@@ -1,0 +1,10 @@
+
+{
+  "apps" : [{
+    "name"        : "My API",
+    "script"      : "./app.js",
+    "watch"       : "./",
+    "instances"   : "max",
+    "exec_mode"   : "cluster"
+  }]
+}
